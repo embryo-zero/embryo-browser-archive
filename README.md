@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Browser Archive
+
+**Embryo Browser Archive** is Embryo-Zero's fork of [browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 # Browsertrix Crawler 1.x
 
 Browsertrix Crawler is a standalone browser-based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. Browsertrix Crawler uses [Puppeteer](https://github.com/puppeteer/puppeteer) to control one or more [Brave Browser](https://brave.com/) browser windows in parallel. Data is captured through the [Chrome Devtools Protocol (CDP)](https://chromedevtools.github.io/devtools-protocol/) in the browser.
